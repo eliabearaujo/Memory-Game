@@ -1,0 +1,82 @@
+[
+  {
+    "specie": "Bee",
+    "path": "./imgs/animals/bee.png"
+  },
+  {
+    "specie": "Bird",
+    "path": "./imgs/animals/bird.png"
+  },
+  {
+    "specie": "Camel",
+    "path": "./imgs/animals/camel.png"
+  },
+  {
+    "specie": "Cow",
+    "path": "./imgs/animals/cow.png"
+  },
+  {
+    "specie": "Dog",
+    "path": "./imgs/animals/dog.png"
+  },
+  {
+    "specie": "Dolphin",
+    "path": "./imgs/animals/dolphin.png"
+  },
+  {
+    "specie": "Duck",
+    "path": "./imgs/animals/duck.png"
+  },
+  {
+    "specie": "Elephant",
+    "path": "./imgs/animals/elephant.png"
+  },
+  {
+    "specie": "Flamingo",
+    "path": "./imgs/animals/flamingo.png"
+  },
+  {
+    "specie": "Frog",
+    "path": "./imgs/animals/frog.png"
+  },
+  {
+    "specie": "Giraffe",
+    "path": "./imgs/animals/giraffe.png"
+  },
+  {
+    "specie": "Koala",
+    "path": "./imgs/animals/koala.png"
+  },
+  {
+    "specie": "Monkey",
+    "path": "./imgs/animals/monkey.png"
+  },
+  {
+    "specie": "Mouse",
+    "path": "./imgs/animals/mouse.png"
+  },
+  {
+    "specie": "Octopus",
+    "path": "./imgs/animals/octopus.png"
+  },
+  {
+    "specie": "Pig",
+    "path": "./imgs/animals/pig.png"
+  },
+  {
+    "specie": "Rabbit",
+    "path": "./imgs/animals/rabbit.png"
+  },
+  {
+    "specie": "Sloth",
+    "path": "./imgs/animals/sloth.png"
+  },
+  {
+    "specie": "Squirrel",
+    "path": "./imgs/animals/squirrel.png"
+  },
+  {
+    "specie": "Turtle",
+    "path": "./imgs/animals/turtle.png"
+  }
+]

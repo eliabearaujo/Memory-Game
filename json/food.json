@@ -1,0 +1,82 @@
+[
+  {
+    "specie": "Apple-pie",
+    "path": "./imgs/food/apple-pie.png"
+  },
+  {
+    "specie": "Avocado",
+    "path": "./imgs/food/avocado.png"
+  },
+  {
+    "specie": "Banana",
+    "path": "./imgs/food/banana.png"
+  },
+  {
+    "specie": "Barley",
+    "path": "./imgs/food/barley.png"
+  },
+  {
+    "specie": "Burger",
+    "path": "./imgs/food/burger.png"
+  },
+  {
+    "specie": "Carrot",
+    "path": "./imgs/food/carrot.png"
+  },
+  {
+    "specie": "Cauliflower",
+    "path": "./imgs/food/cauliflower.png"
+  },
+  {
+    "specie": "Cheese-slice",
+    "path": "./imgs/food/cheese-slice.png"
+  },
+  {
+    "specie": "Chilli",
+    "path": "./imgs/food/chilli.png"
+  },
+  {
+    "specie": "Coffee-bean",
+    "path": "./imgs/food/coffee-bean.png"
+  },
+  {
+    "specie": "Coffee",
+    "path": "./imgs/food/coffee.png"
+  },
+  {
+    "specie": "Cutlery",
+    "path": "./imgs/food/cutlery.png"
+  },
+  {
+    "specie": "Donut",
+    "path": "./imgs/food/donut.png"
+  },
+  {
+    "specie": "Hotdog",
+    "path": "./imgs/food/hotdog.png"
+  },
+  {
+    "specie": "Mushroom",
+    "path": "./imgs/food/mushroom.png"
+  },
+  {
+    "specie": "Peanut",
+    "path": "./imgs/food/peanut.png"
+  },
+  {
+    "specie": "Pizza-slice",
+    "path": "./imgs/food/pizza-slice.png"
+  },
+  {
+    "specie": "Sausage",
+    "path": "./imgs/food/sausage.png"
+  },
+  {
+    "specie": "Spade",
+    "path": "./imgs/food/spade.png"
+  },
+  {
+    "specie": "Steak",
+    "path": "./imgs/food/steak.png"
+  }
+]

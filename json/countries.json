@@ -1,0 +1,82 @@
+[
+  {
+    "specie": "Argentina",
+    "path": "./imgs/countries/argentina.png"
+  },
+  {
+    "specie": "Australia",
+    "path": "./imgs/countries/australia.png"
+  },
+  {
+    "specie": "Belgium",
+    "path": "./imgs/countries/belgium.png"
+  },
+  {
+    "specie": "Brazil",
+    "path": "./imgs/countries/brazil.png"
+  },
+  {
+    "specie": "Canada",
+    "path": "./imgs/countries/canada.png"
+  },
+  {
+    "specie": "Chile",
+    "path": "./imgs/countries/chile.png"
+  },
+  {
+    "specie": "Croatia",
+    "path": "./imgs/countries/croatia.png"
+  },
+  {
+    "specie": "England",
+    "path": "./imgs/countries/england.png"
+  },
+  {
+    "specie": "Finland",
+    "path": "./imgs/countries/finland.png"
+  },
+  {
+    "specie": "France",
+    "path": "./imgs/countries/france.png"
+  },
+  {
+    "specie": "Germany",
+    "path": "./imgs/countries/germany.png"
+  },
+  {
+    "specie": "Greece",
+    "path": "./imgs/countries/greece.png"
+  },
+  {
+    "specie": "Ireland",
+    "path": "./imgs/countries/ireland.png"
+  },
+  {
+    "specie": "Italy",
+    "path": "./imgs/countries/italy.png"
+  },
+  {
+    "specie": "Japan",
+    "path": "./imgs/countries/japan.png"
+  },
+  {
+    "specie": "Mexico",
+    "path": "./imgs/countries/mexico.png"
+  },
+  {
+    "specie": "Netherlands",
+    "path": "./imgs/countries/netherlands.png"
+  },
+  {
+    "specie": "New-Zeland",
+    "path": "./imgs/countries/new-zeland.png"
+  },
+  {
+    "specie": "Portugal",
+    "path": "./imgs/countries/portugal.png"
+  },
+  {
+    "specie": "United-States",
+    "path": "./imgs/countries/united-states.png"
+  }
+]
