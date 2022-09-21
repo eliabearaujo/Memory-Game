@@ -6,9 +6,11 @@ Timer que informa o tempo desde o começo do desafio até ganhar ou perder o gam
 
 Seleção de idioma
 
-Selecionar dificuldade
+Selecionar dificuldade:
 
-Selecionar modo de jogo
+Selecionar modo de jogo:
+Botão inserido para permitid a seleção de modo de jogo.
+Classico, Contra o tempo, Contador de vidas.
 
 Selecionar tipo de cartas
 
